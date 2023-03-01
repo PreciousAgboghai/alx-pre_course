@@ -1,3 +1,3 @@
 My first readme
-This project is something else
-but I gat this nonetheless.
+: this project is something else,
+but Jehovah has everything under control.
